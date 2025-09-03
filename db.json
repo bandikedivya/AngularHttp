@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "view": 100
+    },
+    {
+      "id": "2",
+      "title": "a title",
+      "view": 100
+    }
+  ],
+  "Mobile": [
+    {
+      "id": "1",
+      "brand": "Samsung",
+      "price": 10000
+    },
+    {
+      "id": "2",
+      "brand": "Iphone",
+      "price": 50000
+    }
+  ],
+  "Tv": [
+    {
+      "id": "2",
+      "brand": "Sony",
+      "Loc": "MP",
+      "price": 50000
+    },
+    {
+      "id": "4",
+      "brand": "LG",
+      "Loc": "Chennai",
+      "location": "Dhone"
+    }
+  ]
+}

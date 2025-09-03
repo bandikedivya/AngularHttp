@@ -31,3 +31,21 @@
     </tbody>
   </table>
 </div>
+
+
+<button  (click)="evtCreateNewTV()">Create</button> 
+<br><br>
+
+
+<input type= "text" [(ngModel)] = "gettv" />
+<button  (click)="findbyid(gettv)">Search</button> 
+<br><br>
+
+<button (click)="updatetvdata(gettv)">UpdateData</button>|
+<br><br>
+<button (click)="PatchTV(gettv)">Patch</button>|
+<br><br>
+<button (click)="DeleteTv(gettv)">DeleteTV</button>|
+
+
+
